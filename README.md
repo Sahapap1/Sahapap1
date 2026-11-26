@@ -87,11 +87,6 @@ A featured build from this profile.
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sahapap1&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=sahapap1&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F92364037%3Fu%3D5a96552f06736aa24bf02b9a1f15b72a5f0e6cf0%26v%3D4" alt="sahapap1 heatmap visual" />
-</p>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sahapap1&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 🏆 Beyond the Code
 
